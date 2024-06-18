@@ -83,27 +83,27 @@ skills:
       - name: Music
         description: ''
         percent: 100
-        icon: music
+        icon: "custom/music"
       - name: Dogs
         description: ''
         percent: 100
-        icon: dog
+        icon: "custom/dog"
       - name: Soccer
         description: ''
         percent: 80
-        icon: soccer
+        icon: "custom/soccer"
       - name: Reading
         description: ''
         percent: 90
-        icon: reading
+        icon: "custom/reading"
       - name: Gaming
         description: ''
         percent: 100
-        icon: gaming
+        icon: "custom/gaming"
       - name: Eating
         description: ''
         percent: 100
-        icon: eating
+        icon: "custom/eating"
 
 languages:
   - name: Spanish
