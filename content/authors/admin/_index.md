@@ -27,6 +27,8 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: brands/whatsapp
+    url: https:wa.link/w7ie3s
   - icon: brands/x
     url: https://x.com/Lonchanick
   - icon: brands/github
