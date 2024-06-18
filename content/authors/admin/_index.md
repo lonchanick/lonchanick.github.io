@@ -83,7 +83,7 @@ skills:
       - name: Music
         description: ''
         percent: 100
-        icon: 'guitar'
+        icon: 'music'
       - name: Dogs
         description: ''
         percent: 100
@@ -95,27 +95,27 @@ skills:
       - name: Reading
         description: ''
         percent: 90
-        icon: book
+        icon: reading
       - name: Gaming
         description: ''
         percent: 100
-        icon: game
+        icon: gaming
       - name: Eating
         description: ''
         percent: 100
-        icon: food
+        icon: eating
 
 languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 50
+    percent: 51
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+#awards:
   
 ---
 I recently graduated with an Engineering at Systems from Catholic University of Ecuador, where I developed a solid foundation in programming computers. I'm Currently learning new technologies and sharpening my abilities in order to meet the necessary skills to work in the software development field. During my studies, I gained proficiency in programming languages such as C, C++ and Java.
