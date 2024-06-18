@@ -82,28 +82,28 @@ skills:
     items:
       - name: Music
         description: ''
-        percent: 60
-        icon: fa-music
+        percent: 100
+        icon: 'guitar'
       - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: dog
       - name: Soccer
         description: ''
         percent: 80
-        icon: camera
+        icon: soccer
       - name: Reading
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: book
       - name: Gaming
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: game
       - name: Eating
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: food
 
 languages:
   - name: Spanish
