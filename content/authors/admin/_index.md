@@ -17,18 +17,18 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ASP.NET Software Developer [Jr] 
+role: ASP.NET Software Developer [Jr]
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Catholic University OF Ecuador
+  - name: Catholic University Of Ecuador
     url: https://www.pucese.edu.ec/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: brands/whatsapp
-    url: https:wa.link/w7ie3s
+    url: https://wa.link/w7ie3s
   - icon: brands/x
     url: https://x.com/Lonchanick
   - icon: brands/github
@@ -77,7 +77,6 @@ skills:
         percent: 40
         icon: devicon/javascript                
         
-
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -112,13 +111,6 @@ languages:
     percent: 100
   - name: English
     percent: 51
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
- 
-  
 ---
 I recently graduated with an Engineering at Systems from Catholic University of Ecuador, where I developed a solid foundation in programming computers. I'm Currently learning new technologies and sharpening my abilities in order to meet the necessary skills to work in the software development field. During my studies, I gained proficiency in programming languages such as C, C++ and Java.
 I have been proactive in expanding my skills through self-study and participation in online coding platforms like GitHub and CSharp-Academy.
