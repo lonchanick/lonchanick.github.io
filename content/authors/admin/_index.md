@@ -54,15 +54,15 @@ skills:
     items:
       - name: C#
         description: ''
-        percent: 75
+        percent: 80
         icon: devicon/csharp
       - name: ASP.NET
         description: ''
-        percent: 60
+        percent: 80
         icon: devicon/dotnetcore
       - name: SQL
         description: ''
-        percent: 60
+        percent: 80
         icon: devicon/postgresql
       - name: HTML
         description: ''
@@ -70,11 +70,11 @@ skills:
         icon: devicon/html5
       - name: CSS
         description: ''
-        percent: 60
+        percent: 80
         icon: devicon/css3
       - name: JavaScript
         description: ''
-        percent: 40
+        percent: 80
         icon: devicon/javascript                
         
   - name: Hobbies
@@ -91,11 +91,11 @@ skills:
         icon: "custom/dog"
       - name: Soccer
         description: ''
-        percent: 80
+        percent: 100
         icon: "custom/soccer"
       - name: Reading
         description: ''
-        percent: 90
+        percent: 100
         icon: "custom/reading"
       - name: Gaming
         description: ''
