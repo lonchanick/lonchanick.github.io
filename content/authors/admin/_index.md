@@ -49,10 +49,10 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-projects:
-  - name: Projects
-    items:
-      - name: C#
+# projects:
+#   - name: Projects
+#     items:
+#       - name: C#
 
 skills:
   - name: Technical Skills
