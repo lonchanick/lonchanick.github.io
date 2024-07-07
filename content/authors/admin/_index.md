@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ASP.NET Software Developer [Jr]
+role: ASP.NET Core C# Web Software Developer [Jr]
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -27,7 +27,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/whatsapp
+  - icon: brands/Whatsapp
     url: https://wa.link/w7ie3s
   - icon: brands/x
     url: https://x.com/Lonchanick
@@ -49,6 +49,14 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
+projects:
+  - name: Projects
+    items:
+      - name: C#
+      - url: 'www.google.com'
+
+
+
 skills:
   - name: Technical Skills
     items:
@@ -110,7 +118,7 @@ languages:
   - name: Spanish
     percent: 100
   - name: English
-    percent: 51
+    percent: 60
 ---
 I recently graduated with an Engineering at Systems from Catholic University of Ecuador, where I developed a solid foundation in programming computers. I'm Currently learning new technologies and sharpening my abilities in order to meet the necessary skills to work in the software development field. During my studies, I gained proficiency in programming languages such as C, C++ and Java.
 I have been proactive in expanding my skills through self-study and participation in online coding platforms like GitHub and CSharp-Academy.
