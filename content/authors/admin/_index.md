@@ -53,9 +53,6 @@ projects:
   - name: Projects
     items:
       - name: C#
-      - url: 'www.google.com'
-
-
 
 skills:
   - name: Technical Skills
