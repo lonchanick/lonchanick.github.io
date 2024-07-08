@@ -21,7 +21,8 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        # filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: volcano.jpg
         # filename: malecon.jpg
       biography:
         # Customize the style of your biography text

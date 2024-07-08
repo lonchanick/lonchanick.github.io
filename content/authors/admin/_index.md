@@ -104,7 +104,7 @@ skills:
         # percent: 100
         icon: "custom/music"
 
-      - name: Eating
+      - name: Food
         description: ''
         # percent: 100
         icon: "custom/music"
