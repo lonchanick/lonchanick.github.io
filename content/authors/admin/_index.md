@@ -47,12 +47,6 @@ education:
       text: 'Read Thesis'
       url: 'https://www.scribd.com/document/630469554/bases-de-datos-comparacion-nosql-y-sql-pdf'
 
- 
-projects:
-  - name: Projects
-    items:
-      - name: C#
-
 skills:
   - name: Technical Skills
     items:
