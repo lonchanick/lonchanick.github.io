@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ASP.NET Core C# Web Software Developer [Jr]
+role: ASP.NET Core | C# Web Software Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -35,10 +35,9 @@ profiles:
     url: https://github.com/lonchanick
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/diego-arroyo-98b078147/
-
 education:
   - area: Systems Engineering
-    institution: Catholic University of Ecuador
+    institution: Catholic University
     date_start: 2011-01-01
     date_end: 2017-12-31
     summary: |
@@ -46,7 +45,6 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.scribd.com/document/630469554/bases-de-datos-comparacion-nosql-y-sql-pdf'
-
 skills:
   - name: Technical Skills
     items:
@@ -74,7 +72,6 @@ skills:
         description: ''
         # percent: 80
         icon: devicon/javascript                
-        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -108,8 +105,6 @@ skills:
         description: ''
         # percent: 100
         icon: "custom/music"
- 
- 
 languages:
   - name: Spanish
     percent: 100
