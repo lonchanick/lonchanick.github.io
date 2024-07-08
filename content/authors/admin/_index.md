@@ -104,6 +104,12 @@ skills:
         percent: 100
         icon: "custom/eating"
 
+
+project-secction:
+  - text: "hola"
+    url: "www.google.com"
+
+
 languages:
   - name: Spanish
     percent: 100
