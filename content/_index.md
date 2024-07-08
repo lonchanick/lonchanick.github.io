@@ -11,19 +11,12 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
-    id: section-2
-    content:
-      title: Section 2
-      subtitle: A subtitle
-      text: Add your Section 2 content here...
-      
   - block: biography
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download Resume
         url: uploads/resume.pdf
     design:
       banner:
@@ -43,15 +36,21 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  # - block: projects
-  #   content:
-  #     title: Projects
-  #     username: admin
-
   - block: skills
     content:
       title: Skills & Hobbies
       username: admin
+
+  - block: markdown
+    id: section-projects
+    content:
+      items:
+        - title: Projects#1
+          url: www.google.com
+          
+        - title: Projects#2
+          url: www.google.com
+      # text: Add your Section 2 content here...
 
   - block: languages
     content:

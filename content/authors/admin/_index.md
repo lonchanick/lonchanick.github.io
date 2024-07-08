@@ -47,12 +47,11 @@ education:
       text: 'Read Thesis'
       url: 'https://www.scribd.com/document/630469554/bases-de-datos-comparacion-nosql-y-sql-pdf'
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-# projects:
-#   - name: Projects
-#     items:
-#       - name: C#
+ 
+projects:
+  - name: Projects
+    items:
+      - name: C#
 
 skills:
   - name: Technical Skills
