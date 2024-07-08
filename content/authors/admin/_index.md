@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Diego Arroyo
+title: D. Arroyo
 
 # Name pronunciation (optional)
 name_pronunciation: ''
