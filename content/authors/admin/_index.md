@@ -105,7 +105,7 @@ skills:
         icon: "custom/eating"
 
 
-project-secction:
+projects-secction:
   - text: "hola"
     url: "www.google.com"
 
