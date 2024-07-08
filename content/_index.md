@@ -45,11 +45,11 @@ sections:
     id: section-projects
     content:
       items:
-        - title: Projects#1
-          url: www.google.com
+        - text: 'Projects#1'
+          url: 'www.google.com'
           
-        - title: Projects#2
-          url: www.google.com
+        - text: 'Projects#2'
+          url: 'www.google.com'
       # text: Add your Section 2 content here...
 
   - block: languages
