@@ -46,8 +46,7 @@ sections:
     content:
       title: Projects
       subtitle: List of projects
-      text: 
-      '
+      text: '
         <ul>
           <li><a href="/projects/project1">Project 1</a></li>
           <li><a href="/projects/project2">Project 2</a></li>
