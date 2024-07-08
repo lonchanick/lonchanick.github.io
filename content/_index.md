@@ -50,9 +50,5 @@ sections:
     content:
       title: Languages
       username: admin
-
-  - block: project
-    content:
-      title: Projects
-      username: admin
+ 
 ---
