@@ -11,6 +11,13 @@ design:
 
 # Page sections
 sections:
+  - block: markdown
+    id: section-2
+    content:
+      title: Section 2
+      subtitle: A subtitle
+      text: Add your Section 2 content here...
+      
   - block: biography
     content:
       username: admin
@@ -50,9 +57,5 @@ sections:
     content:
       title: Languages
       username: admin
-
-  - block: project
-    content:
-      title: Projects
-      username: admin
+ 
 ---
