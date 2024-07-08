@@ -44,17 +44,16 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Section 1
-      subtitle: A subtitle
-      text: '
-      <ul>
-  <li><a href="/projects/project1">Project 1</a></li>
-  <li><a href="/projects/project2">Project 2</a></li>
-  <li><a href="/projects/project3">Project 3</a></li>
-  <li><a href="/projects/project4">Project 4</a></li>
-  <li><a href="/projects/project5">Project 5</a></li>
-</ul>
-'
+      items:
+        - name: Music
+          description: ''
+          percent: 100
+          icon: "custom/music"
+          
+        - name: Dogs
+          description: ''
+          percent: 100
+          icon: "custom/dog"
 
   - block: languages
     content:
