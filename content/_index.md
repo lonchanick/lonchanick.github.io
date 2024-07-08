@@ -21,8 +21,8 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        # filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-        filename: malecon.jpg
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        # filename: malecon.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
@@ -44,16 +44,18 @@ sections:
   - block: markdown
     id: section-1
     content:
-      items:
-        - name: Music
-          description: ''
-          percent: 100
-          icon: "custom/music"
-          
-        - name: Dogs
-          description: ''
-          percent: 100
-          icon: "custom/dog"
+      title: Projects
+      subtitle: List of projects
+      text: 
+      '
+        <ul>
+          <li><a href="/projects/project1">Project 1</a></li>
+          <li><a href="/projects/project2">Project 2</a></li>
+          <li><a href="/projects/project3">Project 3</a></li>
+          <li><a href="/projects/project4">Project 4</a></li>
+          <li><a href="/projects/project5">Project 5</a></li>
+        </ul>
+      '
 
   - block: languages
     content:
