@@ -81,28 +81,33 @@ skills:
     items:
       - name: Music
         description: ''
-        percent: 100
+        # percent: 100
         icon: "custom/music"
+
       - name: Dogs
         description: ''
-        percent: 100
-        icon: "custom/dog"
+        # percent: 100
+        icon: "custom/music"
+
       - name: Soccer
         description: ''
-        percent: 100
-        icon: "custom/soccer"
+        # percent: 100
+        icon: "custom/music"
+
       - name: Reading
         description: ''
-        percent: 100
-        icon: "custom/reading"
+        # percent: 100
+        icon: "custom/music"
+
       - name: Gaming
         description: ''
-        percent: 100
-        icon: "custom/gaming"
+        # percent: 100
+        icon: "custom/music"
+
       - name: Eating
         description: ''
-        percent: 100
-        icon: "custom/eating"
+        # percent: 100
+        icon: "custom/music"
  
  
 languages:
