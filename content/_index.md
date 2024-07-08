@@ -44,16 +44,53 @@ sections:
   - block: markdown
     id: section-1
     content:
-      title: Projects
+      title: Small Projects (repositories)
       subtitle: List of projects
       text: '
-        <ul>
-          <li><a href="/projects/project1">Project 1</a></li>
-          <li><a href="/projects/project2">Project 2</a></li>
-          <li><a href="/projects/project3">Project 3</a></li>
-          <li><a href="/projects/project4">Project 4</a></li>
-          <li><a href="/projects/project5">Project 5</a></li>
-        </ul>
+      <div class="container mt-5">
+        <div class="row row-cols-1 row-cols-md-2 g-4">
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-project-diagram me-2"></i><a href="/projects/project1">Project 1</a></h5>
+                        <p class="card-text">Description of Project 1.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-project-diagram me-2"></i><a href="/projects/project2">Project 2</a></h5>
+                        <p class="card-text">Description of Project 2.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-project-diagram me-2"></i><a href="/projects/project3">Project 3</a></h5>
+                        <p class="card-text">Description of Project 3.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-project-diagram me-2"></i><a href="/projects/project4">Project 4</a></h5>
+                        <p class="card-text">Description of Project 4.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title"><i class="fas fa-project-diagram me-2"></i><a href="/projects/project5">Project 5</a></h5>
+                        <p class="card-text">Description of Project 5.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
       '
 
   - block: languages
