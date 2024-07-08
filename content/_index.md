@@ -41,7 +41,7 @@ sections:
       title: Skills & Hobbies
       username: admin
 
-  - block: projects-section
+  - block: projects-secction
     id: section-projects
     content:
       items:
