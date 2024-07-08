@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "3rem"
+  spacing: "5rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -41,16 +41,12 @@ sections:
       title: Skills & Hobbies
       username: admin
 
-  - block: projects-secction
-    id: section-projects
+  - block: markdown
+    id: section-1
     content:
-      items:
-        - text: 'Projects#1'
-          url: 'www.google.com'
-          
-        - text: 'Projects#2'
-          url: 'www.google.com'
-      # text: Add your Section 2 content here...
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 
   - block: languages
     content:
