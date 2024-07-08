@@ -47,13 +47,12 @@ sections:
       title: Small Projects (repositories)
       subtitle: List of projects
       text: '
-        <p>In this section you can check some implementations out of basic libraries and like Entity Framework, ADO.NET and Dapper. Furthermore, you can check uses cases of MVC/API implementations, Unit testing, API consuming, Scraping, E-mail sender consuming among others basic library consuming.</p>
+        <p>In this section you can check some implementations out of basic libraries like Entity Framework, ADO.NET and Dapper. Furthermore, you can check uses cases of MVC/API implementations, Unit testing, API consuming, Scraping, E-mail sender consuming among others basic library consuming.</p>
         <ul>
-          <li><a href="https://github.com/lonchanick/CodeReviews.Console.CodingTracker">CodingTracker</a></li>
-          <li><a href="/projects/project2">Project 2</a></li>
-          <li><a href="/projects/project3">Project 3</a></li>
-          <li><a href="/projects/project4">Project 4</a></li>
-          <li><a href="/projects/project5">Project 5</a></li>
+          <li><a href="https://github.com/lonchanick/CodeReviews.Console.CodingTracker">Coding Tracker</a></li>
+          <li><a href="https://github.com/lonchanick/CodeReviews.Console.Drinks/tree/main/LONCHANICK.DrinksApp">Console Drinks</a></li>
+          <li><a href="https://github.com/lonchanick/CodeReviews.Console.SportsResults/tree/main/Lonchanick.SportNotifier">Sports Data Scraper Service</a></li>
+          <li><a href="https://github.com/lonchanick/CodeReviews.Console.ExcelReader/tree/main/ExcelReader.Lonchanick">Excel to Database Application</a></li>
         </ul>
       '
 
