@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "3rem"
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -21,10 +21,12 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        # filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: malecon.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
+
   - block: experience
     content:
       username: admin
@@ -43,8 +45,14 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
+
   - block: languages
     content:
       title: Languages
+      username: admin
+
+  - block: project
+    content:
+      title: Projects
       username: admin
 ---
