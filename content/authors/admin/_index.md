@@ -111,5 +111,4 @@ languages:
   - name: English
     percent: 60
 ---
-I recently graduated with an Engineering at Systems from Catholic University of Ecuador, where I developed a solid foundation in programming computers. I'm Currently learning new technologies and sharpening my abilities in order to meet the necessary skills to work in the software development field. During my studies, I gained proficiency in programming languages such as C, C++ and Java.
-I have been proactive in expanding my skills through self-study and participation in online coding platforms like GitHub and CSharp-Academy.
+I recently graduated with a degree in Systems Engineering from the Catholic University of Ecuador, where I developed a solid foundation in computer programming. I’m currently learning new technologies and sharpening my abilities to meet the necessary skills to work in the software development field. During my studies, I gained proficiency in programming languages such as C, C++, and Java. I have been proactive in expanding my skills through self-study and participation in online coding platforms like GitHub and CSharp-Academy.
