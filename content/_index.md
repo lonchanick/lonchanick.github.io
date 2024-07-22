@@ -48,7 +48,7 @@ sections:
       title: Small Projects (repositories)
       subtitle: List of projects
       text: '
-        <p>In this section you can check out some implementations  of basic libraries like Entity Framework, ADO.NET and Dapper. Furthermore, you can check uses cases of MVC/API implementations, Unit testing, API consuming, Scraping, E-mail sender consuming among others basic library consuming.</p>
+        <p>In this section, you can check out some implementations  of basic libraries like Entity Framework, ADO.NET and Dapper. Furthermore, you can check use cases of MVC/API implementations, Unit testing, API consumption, web scraping, email sending among others basic library usages.</p>
         <ul>
           <li><a href="https://github.com/lonchanick/CodeReviews.Console.CodingTracker">Coding Tracker</a></li>
           <li><a href="https://github.com/lonchanick/CodeReviews.Console.Drinks/tree/main/LONCHANICK.DrinksApp">Console Drinks</a></li>
