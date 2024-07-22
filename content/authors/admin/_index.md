@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: ASP.NET Core | C# Web Software Developer
+role: ASP.NET Core | C# Web Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
