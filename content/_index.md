@@ -54,6 +54,7 @@ sections:
           <li><a href="https://github.com/lonchanick/CodeReviews.Console.Drinks/tree/main/LONCHANICK.DrinksApp">Console Drinks</a></li>
           <li><a href="https://github.com/lonchanick/CodeReviews.Console.SportsResults/tree/main/Lonchanick.SportNotifier">Sports Data Scraper Service</a></li>
           <li><a href="https://github.com/lonchanick/CodeReviews.Console.ExcelReader/tree/main/ExcelReader.Lonchanick">Excel to Database Application</a></li>
+          <li><a href="https://github.com/lonchanick/Portfolio1_MVC">Introduction to ASP.NET Core MVC (.NET 8)</a></li>
         </ul>
       '
 
